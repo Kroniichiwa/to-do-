@@ -12,7 +12,7 @@
 
 
 ## How this project work?
-- I use dictionary to help me look through all the to-do list
+- I use dictionary to help me look through all a "to-do" list
 
 
 ## for more information about Python Dictionaries 
